@@ -1,3 +1,7 @@
 #!/usr/bin/env python3
 
-poor_syntax = 2 * #
+
+count = 1
+while count < 100:
+    count += 1
+    print("%i" % count)
